@@ -1,6 +1,6 @@
 # Introduction to Vectors
 
-![Source: [Vector intro for linear algebra (video) | Khan Academy](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)](https://github.com/ariefzuhri/LinearAlgebra/blob/master/introduction_to_vectors_0.png)
+![Source: [Vector intro for linear algebra (video) | Khan Academy](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)](https://github.com/ariefzuhri/LinearAlgebra/blob/main/Resources/introduction_to_vectors_0.png)
 
 Source: [Vector intro for linear algebra (video) | Khan Academy](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
 
@@ -43,7 +43,7 @@ So, a vector = **magnitude + direction**.
 
 - Vectors are often written in **bold** (in textbooks) or with an **arrow** overhead (in handwriting), like:
     
-    → **v** or ⃗**v**
+    → **v** or \vec{v}
     
 
 ## ✏️ Column Vector Form
