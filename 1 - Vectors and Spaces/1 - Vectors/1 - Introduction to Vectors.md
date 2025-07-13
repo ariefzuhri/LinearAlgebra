@@ -43,7 +43,7 @@ So, a vector = **magnitude + direction**.
 
 - Vectors are often written in **bold** (in textbooks) or with an **arrow** overhead (in handwriting), like:
     
-    → **v** or \vec{v}
+    → **v** or $\vec{v}$
     
 
 ## ✏️ Column Vector Form
